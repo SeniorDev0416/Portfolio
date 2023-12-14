@@ -66,7 +66,7 @@ const configs = {
           {
             url: 'icons/resume.png',
             websiteURL:
-              'https://docs.google.com/document/d/1wKGkXHhd7q5v3AOGPMK6Gtehpp_Tkp90BvUufUqQIRc/edit?usp=sharing',
+              'https://onedrive.live.com/?authkey=%21Av7iR477wottE1E&cid=3123DC5148569CA6&id=3123DC5148569CA6%21114&parId=root&o=OneUp',
           },
         ],
       },
